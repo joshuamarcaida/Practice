@@ -240,6 +240,7 @@ input{
     .student-ul{
         position: relative;
         left: 0;
+        z-index: 2;
     }
     .student-ul li{
         line-height: 25px;
