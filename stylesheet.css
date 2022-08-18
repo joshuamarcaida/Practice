@@ -141,8 +141,17 @@ nav img{
     border: 1px solid red;
     background: red;
     transition: 1s;
-   
     letter-spacing: 1px;
+}
+
+#students {
+    color: white;
+    font-size: 16px;
+}
+
+#students i{
+    font-size: 25px;
+    margin-right: 10px;
 }
 
 #down{
@@ -273,7 +282,7 @@ input{
         margin-left: 4px;
         margin-right: 6px;
     }
-    #students{
+    #students2{
         margin-left: 2px;
         margin-right: -0.5px;
     }
