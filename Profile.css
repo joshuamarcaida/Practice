@@ -4,3 +4,9 @@ body{
     color: white;
     background-color: rgb(108, 25, 25);
 }
+
+@media(max-width: 700px){
+    body{
+        font-size: 20px;
+    }
+}
